@@ -17,10 +17,10 @@ This implementation performs a 2 Step Bayesian classification for Focal Cortical
 
 
 #### Inputs
-* A text file containing feature vectors for training instances
-* A text file containing feature vectors for test instances
-Data file headers:
-'case','struct','class','V1','V2','V3','ASM','CONTRAST','ENTROPY','CORRELTN','HOMOG','VARIANCE','SUMMN','INERTIA','CLUSTSHADE','CLUSTTEND','MAXPROB','INVVAR','CORTICAL','GRADMAG'
+* A text file* containing feature vectors for training instances
+* A text file* containing feature vectors for test instances
+  *Data file headers:
+  *'case','struct','class','V1','V2','V3','ASM','CONTRAST','ENTROPY','CORRELTN','HOMOG','VARIANCE','SUMMN','INERTIA','CLUSTSHADE','CLUSTTEND','MAXPROB','INVVAR','CORTICAL','GRADMAG'
 
 
 #### Output
