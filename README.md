@@ -25,7 +25,7 @@ This implementation performs a 2 Step Bayesian classification for Focal Cortical
 
 
 #### Output
-* An Excel sheet where first colomn is the  .... in each sample case and the second colomn is ts corresponding predicted class lablel
+* An Excel sheet where the first column is the  .... in each sample case and the second column is its corresponding predicted class label
 
 
 
