@@ -1,6 +1,6 @@
 
 # Identifying Lesions in Paediatric Epilepsy using Morphometric and Textural Analysis of Magnetic Resonance Images
-Sancgeetha Kulaseharan, Mehran Ebrahimi, and Elysa Widjaja
+Sancgeetha Kulaseharan, Azad Aminpour, Mehran Ebrahimi, and Elysa Widjaja
 __________________________________________________________________________________________________________________
 
 ### Abstract
@@ -25,11 +25,7 @@ This implementation performs a 2 Step Bayesian classification for Focal Cortical
 
 
 #### Output
-* An Excel sheet where the first column is the  .... in each sample case and the second column is its corresponding predicted class label
+* An Excel sheet including corresponding predicted class label for each sample.
 
-
-
-
-
-Paper is available at:
+A relating thesis is available at:
 https://ir.library.dc-uoit.ca/bitstream/10155/877/1/Kulaseharan_Sancgeetha.pdf
