@@ -15,6 +15,9 @@ These Research was conducted on an Ubuntu operating system using R (v3.4.1), MAT
 
 This implementation performs a 2 Step Bayesian classification for Focal Cortical Dysplasia (FCD) Detection in Magnetic Resonance Imaging (MRI). It uses a combination of established morphometric features and textural analysis using Gray-Level Co-occurrence Matrices (GLCM) on MRI sequences.
 
+### Naive Bayes classifier 
+Naive Bayes classification is a machine learning technique based on Bayes’ Theorem, and assumes that the value of a particular feature is independent of the value of any other features, given the class variable. The algorithm is called “naive” because it makes a naive assumption that each feature is independent of other features. Although it is a relatively simple idea, Naive Bayes can often outperform other more sophisticated algorithms and is extremely useful in common image classification applications. The algorithm allows us to predict a class, given a set of features using probabilities. By the class conditional independence assumption, all predictor variables contribute independently to class labels and any dependence between input variables is disregarded; this process has the advantage of being less computationally expensive. 
+
 
 #### Inputs
 * A text file* containing feature vectors for training instances
