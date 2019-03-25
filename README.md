@@ -30,5 +30,5 @@ This implementation performs a 2 Step Bayesian classification for Focal Cortical
 #### Output
 * An Excel sheet including corresponding predicted class label for each instance.
 
-A relating thesis is available at:
-https://ir.library.dc-uoit.ca/bitstream/10155/877/1/Kulaseharan_Sancgeetha.pdf
+A relating paper is available at:
+https://www.sciencedirect.com/science/article/pii/S2213158219300130
